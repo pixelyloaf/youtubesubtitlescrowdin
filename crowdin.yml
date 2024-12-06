@@ -1,3 +1,4 @@
 files:
-  - source: /source/%locale%
-    translation: /translated/%locale%
+  - source: /source/%original_file_name%
+    translation: /translated/%original_file_name%
+    multilingual: 1
